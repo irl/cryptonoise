@@ -1,0 +1,23 @@
+Cryptonoise
+
+* Introduction
+** Something about threats in general (Ed)
+** Something about encryption (Iain)
+** Something about crypto hashes (Iain)
+* Something about anonymity
+** Threats
+** Tor
+* Something about anonymous private messaging
+** Threats (Iain)
+** Mixmaster (Iain)
+* Something about basic encryption
+** Threats
+** GPG
+** Web of trust
+* Something about email GPG
+** Threats
+** Enigmail, GPGME
+* Something about verifying software downloads
+** Threats
+** md5/GPG
+
